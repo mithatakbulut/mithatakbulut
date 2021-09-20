@@ -37,5 +37,3 @@
 <a href="mailto:marmarisco860@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 <a href="https://www.linkedin.com/in/mithat-akbulut-5221401b3/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<hr class="dotted">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=w1that&label=Profile%20Views&color=237b5e&style=flat-square" alt="Ulaş Müezzinoğlu" /> </p>
