@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 This is Mithat speaking</h1>
-- 🔭 I’m currently working on the frontend of a project that I've done the backend of earlier
+
+- 🔭 I’m currently working on frontend web development with Reactjs also have been giving a look at React native to improve myself on mobile development side recently.
 
 <hr class="dotted">
 
