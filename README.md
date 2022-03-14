@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on frontend web development with Reactjs also have been giving a look at React native to improve myself on mobile development side recently.
+- 🔭 I’m currently working on frontend development with React also have been giving a look at React Native to improve myself on mobile development side recently.
 
 <hr class="dotted">
 
@@ -35,6 +35,6 @@
 
 ### 📩 Contact Me ! 
 
-<a href="mailto:marmarisco860@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="mailto:mithatakbulut.dev0@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 <a href="https://www.linkedin.com/in/mithat-akbulut-5221401b3/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
