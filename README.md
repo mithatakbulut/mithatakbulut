@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on frontend development with React also have been giving a look at React Native to improve myself on mobile development side recently.
+- 🔭 I’m currently working on frontend development with React.
 
 <hr class="dotted">
 
