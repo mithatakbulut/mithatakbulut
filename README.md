@@ -1,5 +1,5 @@
 
-🔭 currently working on frontend development with React.
+🎨 Weaving intuitive user interfaces and experiences in the vast world of frontend development.
 
 <hr class="dotted">
 
