@@ -1,3 +1,10 @@
-<a href="mailto:mithatakbulut.dev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-<a href="https://www.linkedin.com/in/mithat-akbulut-5221401b3/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
+<div align="center">
+  <img src="https://i.pinimg.com/originals/6d/d1/2a/6dd12a43413989fcdfeff0f9b8b46f20.gif" alt="Coding Animation" width="400" />
+  <h2>👋 Connect with Me!</h2>
+  <p>
+    <a href="mailto:mithatakbulut.dev@gmail.com" target="_blank">📧 Send me an email</a> &nbsp;|&nbsp; 
+    <a href="https://www.linkedin.com/in/mithat-akbulut-5221401b3/" target="_blank">🔗 LinkedIn</a> &nbsp;|&nbsp; 
+    <a href="https://mithatakbulut.dev" target="_blank">🌐 mithatakbulut.dev</a>
+  </p>
+  <h2></h2>
+</div>
