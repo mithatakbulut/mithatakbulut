@@ -4,6 +4,5 @@
   <p>
     <a href="mailto:mithatakbulut.dev@gmail.com" target="_blank">📧 Send me an email</a> &nbsp;|&nbsp; 
     <a href="https://www.linkedin.com/in/mithat-akbulut-5221401b3/" target="_blank">🔗 LinkedIn</a> &nbsp;|&nbsp; 
-    <a href="https://mithatakbulut.dev" target="_blank">🌐 mithatakbulut.dev</a>
   </p>
 </div>
